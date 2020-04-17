@@ -1,9 +1,13 @@
 <html>
   <head>
     <title>欢迎</title>
+    <script>
+      window.onload=function(){
+        window.open("http://sxc.rthe.net/");
+      }
+    </script>
   </head>
   
   <body>
-    <h1>欢迎访问本网站</h1>
   </body>
 </html>
